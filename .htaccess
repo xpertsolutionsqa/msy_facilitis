@@ -1,0 +1,17 @@
+# Canonical https/www
+AddHandler application/x-httpd-php82 .php
+<IfModule mod_rewrite.c>
+#	RewriteCond %{HTTPS} off
+#	RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+	
+	RewriteCond %{HTTP_HOST} !^www\. [NC]
+	RewriteRule (.*) https://www.%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+</IfModule>
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{REQUEST_URI} !^/public/
+    RewriteRule ^(.*)$ /public/$1 [L,QSA]
+</IfModule>
+<IfModule mod_headers.c>
+    Header set Cache-Control "private"
+</IfModule>

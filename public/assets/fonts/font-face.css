@@ -1,0 +1,118 @@
+/* @font-face {
+    font-family: 'Noto Sans Arabic';
+    src: url('NotoSansArabic-Bold.woff2') format('woff2'),
+        url('NotoSansArabic-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Sans Arabic';
+    src: url('NotoSansArabic-Black.woff2') format('woff2'),
+        url('NotoSansArabic-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Sans Arabic';
+    src: url('NotoSansArabic-Medium.woff2') format('woff2'),
+        url('NotoSansArabic-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Sans Arabic';
+    src: url('NotoSansArabic-ExtraBold.woff2') format('woff2'),
+        url('NotoSansArabic-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Sans Arabic';
+    src: url('NotoSansArabic-Light.woff2') format('woff2'),
+        url('NotoSansArabic-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Sans Arabic';
+    src: url('NotoSansArabic-ExtraLight.woff2') format('woff2'),
+        url('NotoSansArabic-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Sans Arabic';
+    src: url('NotoSansArabic-SemiBold.woff2') format('woff2'),
+        url('NotoSansArabic-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Sans Arabic';
+    src: url('NotoSansArabic-Regular.woff2') format('woff2'),
+        url('NotoSansArabic-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Sans Arabic';
+    src: url('NotoSansArabic-Thin.woff2') format('woff2'),
+        url('NotoSansArabic-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+} */
+@font-face {
+    font-family: 'ElMessiri';
+    src: url('ElMessiri.ttf') format('ttf'),
+        url('ElMessiri.ttf') format('ttf');
+}
+
+/* @font-face {
+    font-family: 'Lusail';
+    src: url('Lusail-Regular.woff') format('woff2'),
+        url('Lusail-Regular.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Lusail';
+    src: url('Lusail-Medium.woff') format('woff2'),
+        url('Lusail-Medium.woff2') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Lusail';
+    src: url('Lusail-Light.woff') format('woff2'),
+        url('Lusail-Light.woff2') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Lusail';
+    src: url('Lusail-Bold.woff') format('woff2'),
+        url('Lusail-Bold.woff2') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+} */
