@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="{{ asset('assets/backend/css/backend-plugin.min.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/backend/css/backend-plugin.min.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/backend/css/backend.css?v=1.0.0') }}">
-    <link rel="stylesheet"
+    <link rel="stylesheet"  
         href="{{ asset('assets/backend/vendor/line-awesome/dist/line-awesome/css/line-awesome.min.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/backend/vendor/remixicon/fonts/remixicon.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/backend/vendor/tui-calendar/tui-calendar/dist/tui-calendar.css') }}">
